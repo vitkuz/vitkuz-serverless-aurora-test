@@ -1,0 +1,1 @@
+aws rds describe-db-engine-versions --engine aurora-postgresql --region us-east-1 > region.txt

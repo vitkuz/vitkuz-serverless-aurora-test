@@ -1,0 +1,1 @@
+aws secretsmanager get-secret-value --secret-id arn:aws:secretsmanager:us-east-1:582347504313:secret:DBSecretD58955BC-j1EqrSj8qyUg-31y41l --region us-east-1 > secret.json
